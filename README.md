@@ -2,6 +2,9 @@
 Simple currency exchange terminal written in c++
 Supports USD, EUR, YEN, CAD, CHF, and AUD but for additional support all you need to do is add it to the currencies map.
 
+
+
+
 MIT License
 
 Copyright (c) 2023 GoatIsConfused
